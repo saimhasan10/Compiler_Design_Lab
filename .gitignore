@@ -1,1 +1,10 @@
-./exe
+/comment_or_not.exe
+/frequency_num.exe
+/frequency_of_char.exe
+/identifier_check.exe
+/intermediate_code_generation.exe
+/keyword_check.exe
+/number_of_space_tab_line.exe
+/recognize_string_under_a_star_b_plus.exe
+/simulating_first_and_follow.exe
+/valid_operator.exe
